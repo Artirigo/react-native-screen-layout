@@ -1,0 +1,31 @@
+{
+  "name": "react-native-screen-layout",
+  "version": "1.0.0",
+  "description": "React Native Module for reading Android ScreenLayout Configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "android"
+  ],
+  "author": "Martin Rädlinger",
+  "maintainers": [
+    {
+      "email": "mr@formatlos.de",
+      "name": "Martin Rädlinger"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Artirigo/react-native-screen-layout",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artirigo/react-native-screen-layout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Artirigo/react-native-screen-layout/issues"
+  },
+  "dependencies": {}
+}
